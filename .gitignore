@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 Resources/Data.gov/US_CDI.csv
+.DS_Store
