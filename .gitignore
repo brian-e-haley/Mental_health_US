@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 Resources/Data.gov/US_CDI.csv
 .DS_Store
+Output/~$MentalHealth_in_the_US.pptx
