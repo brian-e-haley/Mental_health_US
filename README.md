@@ -1,2 +1,3 @@
 # Project_1
-Initial repo for project 1 needs a better name and description
+# Data Analysis connecting Mental Health and Census Metrics
+Data Analysis correlating mental health illness with US Census data, including Census metrics around poverty, health insurance, unemployment. 
