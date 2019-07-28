@@ -1,0 +1,11 @@
+statsmodels==0.9.0
+matplotlib==3.0.3
+pandas==0.24.2
+numpy==1.16.2
+requests==2.21.0
+scipy==1.2.1
+seaborn==0.9.0
+census==0.8.13
+folium==0.10.0
+gmaps==0.9.0
+us==1.0.0
