@@ -20,16 +20,16 @@ Data Analysis correlating mental health illness with US Census data, including C
 12. us==1.0.0
 
 ### Map of the severity of mental health in the US
-[map_MentalHealth.html](Output/map_MentalHealth.html)
-![map_MentalHealth.jpg](Images/map_MentalHealth.jpg)
+[map_MentalHealth.html](Output/map_Mental_Health.html)
+![map_MentalHealth.jpg](Images/map_Mental_Health.jpg)
 
 ### Graphs created with Matplotlib for this project
-![# States vs. % Population with Mental Illness in 2017.png](Images/# States vs. % Population with Mental Illness in 2017.png)
+![Mental_Illness_vs_GDP.png](Images/Mental_Illness_vs_GDP.png)
 
-![Mental Illness vs. GDP.png](Images/Mental Illness vs. GDP.png)
+![Mental_Illness_vs_Income.png](Images/Mental_Illness_vs_Income.png)
 
-![Mental Illness vs. Suicide Rate.png](Images/Mental Illness vs. Suicide Rate.png)
+![Mental_Illness_vs_Suicide_Rate.png](Images/Mental_Illness_vs_Suicide_Rate.png)
 
-![Mental Illness vs. Income.png](Images/Mental Illness vs. Income.png)
+![States_vs_Population_with_Mental_Illness_in_2017.png](Images/States_vs_Population_with_Mental_Illness_in_2017.png)
 
-![Trend: % Population with any mental illness.png](Images/Trend: % Population with any mental illness.png)
+![Trend_Population_with_any_mental_illness.png](Images/Trend_Population_with_any_mental_illness.png)
